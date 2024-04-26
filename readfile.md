@@ -1,17 +1,11 @@
 # Kaggle-Predicting-Future-Sales
 
-[![Makes people smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/iamsivab)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamsivab%2FKaggle-Predicting-Future-Sales)](https://hits.seeyoufarm.com)
-
 ## Kaggle-Predicting-Future-Sales
 
-[![Generic badge](https://img.shields.io/badge/Datascience-Beginners-Red.svg?style=for-the-badge)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) 
-[![Generic badge](https://img.shields.io/badge/LinkedIn-Connect-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsivab/) [![Generic badge](https://img.shields.io/badge/Python-Language-blue.svg?style=for-the-badge)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)
 
 #### The goal of this project is to Predict the Future Sales [#DataScience](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) for the challenging time-series dataset consisting of daily sales data,
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=github&style=social)](https://github.com/iamsivab) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=git&style=social)](https://github.com/iamsivab/)[![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=python&style=social)](https://github.com/iamsivab)
+
 
 #### Few popular hashtags - 
 ### `#Sales Prediction` `#Time Series` `#Ensembling`
@@ -26,7 +20,7 @@ This documentation contains general information about my approach and technical 
 ### Steps involved in this project
 ### Kaggle Predicting Future Sales- Playground Prediction Competition
 
-### Kaggle Competition: [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales)
+
 ### Data Description
 
 You are provided with daily historical sales data. The task is to forecast the total amount of products sold in every shop for the test set. Note that the list of shops and products slightly changes every month. Creating a robust model that can handle such situations is part of the challenge.
@@ -65,7 +59,7 @@ Important features are measured from LightGBM model
 - Tools I used in this competition are: numpy, pandas, sklearn, XGBoost GPU, LightGBM (running Pytorch)
 - All models are tuned on a linux server with Intel i5 processor, 16GB RAM, NVIDIA 1080 GPU. Tuning models took about 8 to 10 hours, and training on the whole dataset took <=5 minutes
 
-[![Made with Python](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) [![Made with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/iamsivab/) [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://www.linkedin.com/in/iamsivab/)
+
 
 ## II. Exploratory Data Analysis
 More information can be found in [EDA notebook](EDA.ipynb)
@@ -221,55 +215,8 @@ Few things that can be improved are:
 - Install **itertools** using pip command: `from itertools import product`
 
 
-### How to run?
 
-[![Ipynb](https://img.shields.io/badge/Prediction-Sales.Python-lightgrey.svg?logo=python&style=social)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales)
-
-
-### Project Reports
-
-[![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/)
-
-- [Download](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/') for the report.
-
- 
-### Related Work
-
-[![Sales Prediction](https://img.shields.io/static/v1.svg?label=Sales&message=Prediction&color=lightgray&logo=python&style=social&colorA=critical)](https://www.linkedin.com/in/iamsivab/) [![GitHub top language](https://img.shields.io/github/languages/top/iamsivab/Kaggle-Predicting-Future-Sales.svg?logo=php&style=social)](https://github.com/iamsivab/)
-
-[Sales Prediction](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales) - A Detailed Report on the Analysis
-
-
-### Contributing
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?logo=github)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/pulls) [![GitHub issues](https://img.shields.io/github/issues/iamsivab/Kaggle-Predicting-Future-Sales?logo=github)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/issues) ![GitHub pull requests](https://img.shields.io/github/issues-pr/viamsivab/Kaggle-Predicting-Future-Sales?color=blue&logo=github) 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/iamsivab/Kaggle-Predicting-Future-Sales?logo=github)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/)
-
-- Clone [this](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/) repository: 
-
-```bash
-git clone https://github.com/iamsivab/Kaggle-Predicting-Future-Sales.git
-```
-
-- Check out any issue from [here](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/issues).
-
-- Make changes and send [Pull Request](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/pull).
- 
-### Need help?
-
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@iamsivab&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/iamsivab)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@iamsivab&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/iamsivab/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@iamsivab&color=success&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/iamsivab/)
-
-:email: Feel free to contact me @ [balasiva001@gmail.com](https://mail.google.com/mail/)
-
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=balasiva001@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/iamsivab) [![Twitter Follow](https://img.shields.io/twitter/follow/iamsivab?style=social)](https://twitter.com/iamsivab)
 
 
 ### License
 
-MIT &copy; [Sivasubramanian](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/blob/master/LICENSE)
-
-[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/0)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/0)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/1)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/1)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/2)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/2)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/3)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/3)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/4)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/4)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/5)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/5)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/6)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/6)[![](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/images/7)](https://sourcerer.io/fame/iamsivab/iamsivab/Kaggle-Predicting-Future-Sales/links/7)
-
-
-[![GitHub license](https://img.shields.io/github/license/iamsivab/Kaggle-Predicting-Future-Sales.svg?style=social&logo=github)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/blob/master/LICENSE) 
-[![GitHub forks](https://img.shields.io/github/forks/iamsivab/Kaggle-Predicting-Future-Sales.svg?style=social)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/network) [![GitHub stars](https://img.shields.io/github/stars/iamsivab/Kaggle-Predicting-Future-Sales.svg?style=social)](https://github.com/iamsivab/Kaggle-Predicting-Future-Sales/stargazers) [![GitHub followers](https://img.shields.io/github/followers/iamsivab.svg?label=Follow&style=social)](https://github.com/iamsivab/)
